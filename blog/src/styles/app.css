@@ -1,0 +1,6 @@
+@import "../colors/colors.css";
+@import "../layout/layout.css";
+@import "../text/text.css";
+
+@import './variables.scss';
+$background-color: $main-bkg
