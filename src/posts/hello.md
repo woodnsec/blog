@@ -1,19 +1,14 @@
 ---
-title: "Hello Friend"
+title: "Hello"
 path: "/hello"
-date: "2019-05-09"
+date: "2019-05-20"
 coverImage: "../images/hello.jpg"
 author: "Nate Wood"
-excerpt: 'This is the first test post'
+excerpt: 'Hello World' 
 tags: ["hello world"]
 ---
-Quote from Mr. Robot: 
-> "Hello, friend?" That's lame. Maybe I should give you a name...\
-> But that's a slippery slope.\
-> You're only in my head.\
-> We have to remember that...\
-> Shit.\
-> It's actually happened.\
-> I'm talking to an imaginary person.
->
-> **— Mr. Robot S01E01**
+###This serves as the initial blog post for woodnsec.com.  
+
+I'm starting this blog to expand my knowledge of Gatsby.js, HTML, & CSS. It will host my resume, biography, and links to my external social medias and GitHub.  
+
+This blog will be focused on security content including homelab, enterprise configuration and deployment for security tools and automation. Additionally it will serve as a link to my other blog posts hosted at [0dayOmaha.com](https://0dayomaha.com) which is a WIP with Adam Schall [@clevernyyyy](https://twitter.com/clevernyyyy)

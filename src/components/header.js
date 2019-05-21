@@ -60,6 +60,9 @@ const Header = props => {
               )}
             </div>
           </Link>
+
+
+
           <span className={style.right}>
             <Menu
               mainMenu={mainMenu}
@@ -71,7 +74,7 @@ const Header = props => {
               onToggleSubMenu={onToggleSubMenu}
               onChangeTheme={onChangeTheme}
             />
-            <a href='./pages/resume.html'>Resume</a>
+
           </span>
         </div>
       </header>

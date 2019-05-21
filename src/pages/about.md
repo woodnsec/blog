@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: "2019-05-06"
+date: "2019-05-20"
 author: "Nate Wood"
 path: "/about"
 ---

@@ -25,19 +25,7 @@ module.exports = {
         title: 'About',
         path: '/about',
       },
-      {
-        title: 'Showcase',
-        path: '/showcase',
-      },
-      {
-        title: 'Resume',
-        path: '/resume',
-      },
-      {
-        title: 'Resume HTML',
-        path: '/HTMLresume',
-      },
-    ],
+],
   },
   plugins: [
     `babel-preset-gatsby`,
@@ -118,8 +106,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-hello-friend`,
-        short_name: `hello-friend`,
+        name: `woodnsec blog`,
+        short_name: `woodnsec`,
         start_url: `/`,
         background_color: `#292a2d`,
         theme_color: `#292a2d`,

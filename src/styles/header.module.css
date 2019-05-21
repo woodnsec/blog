@@ -1,3 +1,5 @@
+import '.css/font-awesome.css'
+
 .header {
   background: #fafafa;
   display: flex;
@@ -43,7 +45,7 @@
   display: inline-block;
   width: 10px;
   height: 1rem;
-  background: #00930e;
+  background: #86c232;
   margin-left: 5px;
   border-radius: 1px;
   animation: cursor 1s infinite;
